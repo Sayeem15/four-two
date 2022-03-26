@@ -1,0 +1,56 @@
+@media(max-width: 1399px){}
+
+
+
+
+
+@media(max-width: 1199px){.intro {
+    
+    padding: 179px 62px 150px;
+}.intro h1 {
+    
+    font-size: 61px;
+    
+}.hero-banner-photo img {
+    height: 551px;
+    
+}.contact-section h2 {
+    
+    padding-right: 389px;
+    
+}.contact-section h1 {
+    
+    padding-right: 385px;
+}}
+	
+
+
+
+
+@media(max-width: 991px){.navbar-light .navbar-toggler {
+    
+    margin-left: 400px;
+    margin-top: -26px;
+}}
+	
+
+
+
+
+@media(max-width: 767px){.contact-section h2 {
+    padding-right: 322px;
+}
+
+.contact-section h1 {
+    padding-right: 328px;
+}
+
+}
+
+
+@media(max-width: 574px){.navbar-light .navbar-toggler {
+    margin-left: 412px;
+    margin-top: -26px;
+}
+	
+}
